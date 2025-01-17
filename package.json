@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "mqtt": "^5.10.3",
+    "socket.io": "^4.8.1"
+  }
+}
